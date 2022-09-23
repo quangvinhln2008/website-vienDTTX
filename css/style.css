@@ -930,7 +930,7 @@
      display: inline-block;
 }
  .main-menu ul li a{
-     color: #000000;
+     color: #fff;
      padding: 20px 10px;
      line-height: 60px;
      font-size: 16px;
@@ -1720,6 +1720,7 @@
      -moz-transition: all 0.5s ease;
      -o-transition: all 0.5s ease;
      transition:all 1s ease;
+     background-color: #14468c;
 }
  .pop-form{
 }
@@ -4195,8 +4196,8 @@ left: 0;
      position: fixed;
      top: 0px;
      width: 100%;
-     height: 55px;
-     background: #fff;
+     height: 70px;
+     background: #14468c;
      box-shadow: 0 4px 15px 0 rgba(0, 0, 0, 0.32);
      z-index: 999;
      padding: 1px;
