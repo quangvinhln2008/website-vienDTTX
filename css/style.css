@@ -1402,6 +1402,20 @@
      display: block;
      text-align: center;
 }
+.light-lnk{
+    color: #fff;
+    background: #f36b3b;
+    background: -webkit-linear-gradient(to top, #ef612f, #f36b3b);
+    background: linear-gradient(to top, #ef612f, #f36b3b);
+    padding: 10px 10px;
+    line-height: 40px;
+    border-radius: 3px;
+    text-transform: uppercase;
+    font-weight: 800;
+    font-size: 16px;
+    display: block;
+    text-align: center;
+}
  .tabs-hom-reg{
      background:none;
 }
@@ -4086,7 +4100,7 @@ left: 0;
      position:fixed;
      top:0px;
      width:100%;
-     height:75px;
+     height:65px;
      background:#14468c;
      box-shadow: 0 4px 15px 0 rgba(0, 0, 0, 0.32);
      z-index: 999;
