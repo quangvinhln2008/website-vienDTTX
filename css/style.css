@@ -46,8 +46,10 @@
 /* =  1.All Pages Common CSS Styles
 /*-------------------------------------------------*/
  body{
-     font-family: 'Open Sans', sans-serif;
+     font-family: '-apple-system', 'BlinkMacSystemFont', 'Segoe UI', 'Roboto', 'Oxygen',
+     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', 'sans-serif';
      padding-right: 0px !important;
+     font-size: 13px;
 }
  a{
      -webkit-transition: all 0.5s ease;
@@ -1125,11 +1127,11 @@
 }
  .home-top-cour-desc p {
      margin-bottom: 0px;
-     font-size: 13px;
+     font-size: 15px;
 }
  .home-top-cour-rat {
      position: absolute;
-     background: #607D8B;
+     background: #f26838;
      padding: 0px 5px;
      font-weight: 600;
      color: #fff;
@@ -1313,11 +1315,11 @@
      background: linear-gradient(to top, rgba(3, 41, 79, 0.82), rgba(6, 53, 98, 0.62));
 }
  .ho-ev-latest-bg-1{
-     background: url(../images/ev-bg1.jpg) no-repeat;
+     background: url(../images/VLVH2.jpg) no-repeat;
      background-size: cover;
 }
  .ho-ev-latest-bg-2{
-     background: url(../images/ev-bg2.jpg) no-repeat;
+     background: url(../images/DHCQ.jpg) no-repeat;
      background-size: cover;
 }
  .ho-ev-latest-bg-3{
@@ -1328,7 +1330,7 @@
      border-bottom-right-radius: 0px;
 }
  .in-ev-latest-bg-1{
-     background: url(../images/ev-in-bg1.jpg) no-repeat;
+     background: url(../images/VLVH2.jpg) no-repeat;
      background-size: cover;
 }
  .ho-lat-ev{
@@ -1850,7 +1852,7 @@
      right: 0;
      text-align: center;
      transform: translateY(-50%);
-     font-size: 18px;
+     font-size: 30px;
      font-weight: 600;
      color: #fff;
      z-index: 1;
@@ -3342,7 +3344,7 @@ left: 0;
      margin-bottom: 10px;
 }
  .ed-ad-dec p{
-     font-size: 13px;
+     font-size: 15px;
      line-height: 20px;
 }
  .ed-ad-dec a{
